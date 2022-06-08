@@ -3,11 +3,8 @@ int sum(int a, int b);
 
 int main()
 {	
-<<<<<<< HEAD
 	std::cout<<"This is master"<< std::endl;
-=======
 	std :: cout << "Git Training" << std::endl;
->>>>>>> new_branch
 	int a = 5;
 	int b = 3;
 	std::cout << sum(a,b) <<std::endl;
